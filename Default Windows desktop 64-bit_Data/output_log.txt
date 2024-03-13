@@ -1,0 +1,117 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.665500 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 57e8 -> priority: 1 
+  Thread -> id: 3528 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.674700 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.158400 ms (FindLiveObjects: 0.012500 ms CreateObjectMapping: 0.019900 ms MarkObjects: 0.116700 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.776400 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1465.
+Total: 1.013100 ms (FindLiveObjects: 0.095800 ms CreateObjectMapping: 0.038900 ms MarkObjects: 0.496200 ms  DeleteObjects: 0.381500 ms)
+
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\All AI-ML Projects\Udacity self-driving-car-sim\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+3/12/2024 9:15:15 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.902500 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 1.772000 ms (FindLiveObjects: 0.022800 ms CreateObjectMapping: 0.010900 ms MarkObjects: 0.344300 ms  DeleteObjects: 1.393500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.389400 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 959.
+Total: 0.444900 ms (FindLiveObjects: 0.069200 ms CreateObjectMapping: 0.025900 ms MarkObjects: 0.334900 ms  DeleteObjects: 0.014500 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.865700 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.737800 ms (FindLiveObjects: 0.023500 ms CreateObjectMapping: 0.008000 ms MarkObjects: 0.307100 ms  DeleteObjects: 0.398800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373200 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 966.
+Total: 0.468800 ms (FindLiveObjects: 0.049600 ms CreateObjectMapping: 0.029300 ms MarkObjects: 0.375600 ms  DeleteObjects: 0.013600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.596400 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.980700 ms (FindLiveObjects: 0.041600 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.359800 ms  DeleteObjects: 0.565200 ms)
+
